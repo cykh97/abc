@@ -1,0 +1,7 @@
+
+
+body{background-color: darkgray; text-align:center}
+.title{color: red;font-weight:bold;font-size:24px}
+.content{color: brown;border:1px dashed blue; padding:10px}
+.keyword{color: chartreuse}
+.underline{text-decoration:underline;text-decoration-color: black}
