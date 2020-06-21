@@ -1,1 +1,1 @@
-# web
+# HTML example
